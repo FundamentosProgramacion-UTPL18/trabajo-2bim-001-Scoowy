@@ -4,7 +4,7 @@ package arreglos;
  *
  * @author Juan Gahona - Scoowy
  */
-public class PrimerArreglo {
+public class Ejercicio1 {
 
     public static void main(String[] args) {
         int[] c = new int[4];
